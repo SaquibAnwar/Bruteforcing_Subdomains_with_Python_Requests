@@ -13,4 +13,4 @@ for i in range(97,123):
 						requests.get(link1+chr(i)+chr(j)+chr(k)+chr(l)+chr(m)+link2)
 
 					except:
-						print("Doesn't exists")
+						printf("Does not exist!")
